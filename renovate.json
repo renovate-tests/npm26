@@ -1,2 +1,6 @@
 {
+  "packageRules": [{
+    "packageNames": ["chalk"],
+    "allowedVersions": "/^(2|3)/"
+  }]
 }
