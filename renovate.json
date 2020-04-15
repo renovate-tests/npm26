@@ -2,5 +2,9 @@
   "packageRules": [{
     "packageNames": ["chalk"],
     "allowedVersions": "/^(2|3)/"
+  },
+  {
+     "packageNames": ["com.thoughtworks.xstream:xstream"],
+    "allowedVersions": "/^[0-9]+\.[0-9]+\.[0-9]+(.[0-9]+)?$/"
   }]
 }
