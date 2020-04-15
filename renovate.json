@@ -1,7 +1,7 @@
 {
   "packageRules": [{
     "packageNames": ["chalk"],
-    "allowedVersions": "/^4/"
+    "allowedVersions": "!/^4/"
   },
   {
      "packageNames": ["com.thoughtworks.xstream:xstream"],
